@@ -1,0 +1,18 @@
+.validate-validate {
+    background-color: rgb(79, 111, 112);
+    color: blanchedalmond;
+    padding: 10px 25px;
+    font-size: 18px;
+    text-transform: uppercase;
+    border: 0px;
+    margin: 30px 0;
+}
+
+.validate-validate:hover {
+    background-color: rgb(133, 176, 178) ;
+}
+
+.validate-centro {
+    text-align: center;
+
+}
